@@ -10,7 +10,6 @@ For this project, I used Android Studio for the program and I used Kotlin as the
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [KotlinLang](https://kotlinlang.org/)
 * [Geeks For Geeks](https://www.geeksforgeeks.org/)
 
