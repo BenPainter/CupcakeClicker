@@ -2,7 +2,7 @@
 
 The goal of the project was to learn how to make Android studio and so I thought what better way to learn than to make a simple game? The purpose of this app was to build the framework for a tycoon game that is similar to Cookie Clicker and Egg Inc. The gameplay loop is mostly just clicking a button and buying things to click for you so you can proceed to then buy more things. It’s a simple premise that can stack, forming a much longer game. I have designed it in a way so that adding new buttons for more items to buy is as simple as adding just a few lines of code and a new variable for that button. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8xSj7qXnl9U)
 
 # Development Environment
 
